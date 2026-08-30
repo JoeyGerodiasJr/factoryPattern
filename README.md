@@ -5,5 +5,6 @@
 4. Submit the your own version gitHub URL here.
 
 ## Class Diagram
-<img width="8636" height="4537" alt="UML UPDATE FORKING" src="https://github.com/user-attachments/assets/c400aa47-dcbd-4416-a03b-f53d6214eb14" />
+<img width="8636" height="4537" alt="UML UPDATE FORKING" src="https://github.com/user-attachments/assets/63331774-84c9-4a58-ac6c-59d05a51da73" />
+
 
